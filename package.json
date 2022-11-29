@@ -1,0 +1,15 @@
+{
+  "name": "frontend-no-cra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "repo"
+  },
+  "author": "Cole Giusto",
+  "license": "ISC"
+}
